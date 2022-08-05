@@ -1,6 +1,6 @@
 <center>
 
-### Olá! Eu sou Lucas Menescal!  👋🤖
+### Hi! I am Lucas Menescal!  👋🤖
 
 
 
