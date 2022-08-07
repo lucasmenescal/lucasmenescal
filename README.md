@@ -3,7 +3,7 @@
 ### Hi! I am Lucas Menescal!  👋🤖
  - 📚 Student at [IFCE](https://ifce.edu.br/)
 
- - 🧑🏻‍💻 Working as trainee/dev jr.(php/python) at [ETICE](https://www.etice.ce.gov.br/)
+ - 🧑🏻‍💻 Working as trainee/dev jr.(php/python/postgres)
  
  - 🧑🏻‍💻 Working as dev/trainee(java/jsf+primefaces/hibernate) at RV2 Serviços em Meios Eletronicos de Pagamentos
 
