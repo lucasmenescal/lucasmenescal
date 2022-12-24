@@ -23,6 +23,6 @@
 
 
 
-![Lucas Menescal GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmenescal&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmenescal&show_icons=true)
 
 </center>
