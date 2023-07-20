@@ -7,13 +7,13 @@
 
 
 ### Languages in which i have experience
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,tailwindcss,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,php,tailwindcss,react)](https://skillicons.dev)
 
 ### Databases and ORM
-[![My Skills](https://skillicons.dev/icons?i=oracledb,postgres,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
 
 ### Documentation 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 
 
