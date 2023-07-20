@@ -7,7 +7,7 @@
 
 
 ### Languages in which i have experience
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,php,tailwindcss,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,php,tailwindcss,react,java,hibernate,jsf2)](https://skillicons.dev)
 
 ### Databases and ORM
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
